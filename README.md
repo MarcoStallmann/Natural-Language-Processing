@@ -1,5 +1,7 @@
 # Natural-Language-Processing
 
+*by Marco Stallmann*
+
 ## [Analyzing Machine Learning trends with NLP](https://github.com/MarcoStallmann/Natural-Language-Processing/blob/main/Analyzing%20Machine%20Learning%20trends%20with%20NLP/Analyzing%20Machine%20Learning%20trends%20with%20NLP.ipynb)
 
 The Conference on Neural Information Processing Systems (abbreviated as NeurIPS and formerly NIPS) is one of the most prestigious yearly events in the machine learning community. Its papers discuss a wide variety of topics, from neural networks to optimization methods and many more. We determine what type of data we can use for an NLP analysis and how it is structured. Each paper discusses a novel technique or improvement. 
