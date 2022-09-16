@@ -12,6 +12,6 @@ The Conference on Neural Information Processing Systems (abbreviated as NeurIPS 
 For this assignment we use the [Shakespeare Sonnets Dataset](https://www.opensourceshakespeare.org/views/sonnets/sonnet_view.php?range=viewrange&sonnetrange1=1&sonnetrange2=154), which contains more than 2000 lines of text extracted from Shakespeare's sonnets. We will implement a bidirectional LSTM model and train it, while also creating some helper functions to pre-process the data.
 
 
-## [Exploring Overfitting in NLP with Sentiment140 dataset](http://help.sentiment140.com/home)
+## [Exploring Overfitting in NLP with Sentiment140 dataset](https://github.com/MarcoStallmann/Natural-Language-Processing/blob/2f244e43ec1e1853549e8e939742c4ec90bddfd8/%5B3%5D%20Exploring%20Overfitting%20in%20NLP%20with%20Sentiment140%20dataset/Exploring%20Overfitting%20in%20NLP%20with%20Sentiment140%20dataset.ipynb)
 
 For this Notebook we will be using a variation of the Sentiment140 dataset, which contains 1.6 million tweets alongside their respective sentiment (0 for negative and 4 for positive).
